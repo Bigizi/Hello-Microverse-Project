@@ -1,0 +1,23 @@
+{
+  "name": "microverse-pro",
+  "version": "1.0.0",
+  "description": "Hello Microverse Project is for testing knowledge of how to use git and github.\r It contains a README file, html, css, gitignore and test.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigizi/Hello-Microverse-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigizi/Hello-Microverse-Project/issues"
+  },
+  "homepage": "https://github.com/Bigizi/Hello-Microverse-Project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
