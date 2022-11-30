@@ -5,7 +5,7 @@ It contains a README file, html, css, gitignore and test.md
 
 # Built With
 **Tech stack**
-client:
+**client:**
   HTML and CSS
 
 # Prerequisities:
